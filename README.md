@@ -1,7 +1,8 @@
 # The Algorithms - Dart
 
 [![Build Status](https://travis-ci.com/TheAlgorithms/Dart.svg?branch=master)](https://travis-ci.com/TheAlgorithms/Dart)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TheAlgorithms/100) &nbsp;
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TheAlgorithms/100) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FDart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FDart?ref=badge_shield)
+&nbsp;
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/TheAlgorithms) &nbsp;
 
 ### All algorithms implemented in Dart (for education)
@@ -169,3 +170,6 @@ Please read our [CONTRIBUTING.md](https://github.com/TheAlgorithms/Dart/blob/mas
 ## License
 
 [MIT](https://github.com/TheAlgorithms/Dart/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FDart.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FDart?ref=badge_large)
